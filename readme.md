@@ -2,3 +2,4 @@
 
 
 To initilize new repository from scratch
+Vinay Bhagure
